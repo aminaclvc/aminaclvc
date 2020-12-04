@@ -1,4 +1,3 @@
-##### hello-world
-hi 👋🏽
+##### hello world👋🏽
 
 ![](giphy.gif)
