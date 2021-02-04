@@ -1,3 +1,3 @@
 ##### hello world👋🏽
 
-![](giphy.gif)
+![](masks.jpg)
